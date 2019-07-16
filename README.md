@@ -23,6 +23,3 @@ __4.__ [**Rabbits and Recurrence Relations**](./problem-4/README.md)
 
 How many rabbits there are?
 
-__5.__ [**Automated submission of analyses to online servers**](./problem-5/README.md)
-
-Construct a Python script that automatically submits fasta files to the [SignalP 4.1 Server](http://www.cbs.dtu.dk/services/SignalP/). Create a web clawer and navigate through websites.
