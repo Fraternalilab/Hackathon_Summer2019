@@ -4,8 +4,7 @@
 
 During the event we will be solving a set of problems with a particular focus on computational biology. The following exercises will cover algorithmic design and automated data analysis tasks. 
 
-- Problems 1-4 will test your algorithmic thinking for which coding solutions can be easily tested. 
-- Problem 5 will test you collaborative effort skills.  
+These problems will test your algorithmic thinking for which coding solutions can be easily tested.  
 
 __1.__ [**Counting DNA Nucleotides**](./problem-1/README.md)
 
