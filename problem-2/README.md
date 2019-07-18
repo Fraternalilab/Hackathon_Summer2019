@@ -8,7 +8,7 @@ The standard weight assigned to each member of the 20-symbol amino acid alphabet
 
 __Given__: A protein string P of length at most 1000 aa.
 
-__Return__: The total weight of P. [Consult the monoisotopic mass table](https://github.com/KHSDTC/Hackathon2019_Problems/blob/master/problem-2/monoisotopic-mass-table).
+__Return__: The total weight of P. [Consult the monoisotopic mass table](https://github.com/Fraternalilab/Hackathon_Summer2019/blob/master/problem-2/monoisotopic-mass-table).
 
 ### Sample Dataset
 
